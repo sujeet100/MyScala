@@ -4,6 +4,8 @@ package com.my.scala
  * Object means a singleton class i.e. only one instance of this class can be created.
  * The main method of the application is written in Object  
  * 
+ * A good introduction to scala: http://ofps.oreilly.com/titles/9780596155957/
+ * 
  */
 object MyApp {
 
@@ -15,7 +17,7 @@ object MyApp {
     /*Following syntax are also allowed
     circle.perimeter
     
-     following syntax can be used if you defined method in Circle class as 
+     following syntax can be used if you define method in Circle class as 
      	def perimeter()={			i.e. with perenthesis
     circle.perimeter()
     circle perimeter() 

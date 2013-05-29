@@ -1,7 +1,7 @@
 package com.my.scala
 
 
-class Circle(rad:Float) {
+class Circle(rad:Float) extends Shape {
 
   val radius=rad //val means constant
   
