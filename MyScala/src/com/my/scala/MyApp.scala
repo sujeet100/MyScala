@@ -4,6 +4,9 @@ package com.my.scala
  * Object means a singleton class i.e. only one instance of this class can be created.
  * The main method of the application is written in Object  
  * 
+ * As Objects are singleton there is no support for static variables and methods in scala
+ * 
+ * 
  * A good introduction to scala: http://ofps.oreilly.com/titles/9780596155957/
  * 
  */
